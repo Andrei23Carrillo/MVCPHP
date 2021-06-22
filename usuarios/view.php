@@ -14,10 +14,10 @@
         ),
 
         'form_actions'=>array(
-            'SET'=>'/mvc/'.MODULO.SET_USER.'/',
-            'GET'=>'/mvc/'.MODULO.GET_USER.'/',
-            'DELETE'=>'/mvc/'.MODULO.DELETE_USER.'/',
-            'EDIT'=>'/mvc/'.MODULO.EDIT_USER.'/'
+            'SET'=>'./MVCPHP/'.MODULO.SET_USER.'/',
+            'GET'=>'./MVCPHP/'.MODULO.GET_USER.'/',
+            'DELETE'=>'./MVCPHP/'.MODULO.DELETE_USER.'/',
+            'EDIT'=>'./MVCPHP/'.MODULO.EDIT_USER.'/'
         )
     );
 
