@@ -80,14 +80,14 @@
             $this->mensaje = 'Usuario eliminado';
         }
 
-        /*# Método constructor
+        # Método constructor
         function __construct() {
-            $this->db_name = 'book_example';
+            //$this->db_name = 'book_example';
         }
         
         # Método destructor del objeto
         function __destruct() {
-            unset($this);
-        }*/
+            //unset($this);
+        }
     }
 ?>
